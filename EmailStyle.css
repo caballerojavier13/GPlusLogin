@@ -1,0 +1,16 @@
+/* 
+    Document   : EmailStyle
+    Created on : Mar 19, 2013, 10:11:44 PM
+    Author     : Juan Rivillas
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.hide{
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
